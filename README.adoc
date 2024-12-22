@@ -1,5 +1,5 @@
 = Servlet: The Foundation of Java Web Technology
-:dev-article-url: https://dev.to/ahmedjaad
+:dev-article-url: https://dev.to/ahmedjaad/servlet-the-foundation-of-java-web-technology-okh
 
 This is the accompanied code for the article published on {dev-article-url}[Dev Community].
 The article was originally written in AsciiDoc link:doc/servlet-basics.adoc[here]
