@@ -16,4 +16,4 @@ The article was originally written in AsciiDoc link:doc/servlet-basics.adoc[here
 * If you like to build things manually
 ** Build with maven: `mvn package`
 ** Deploy to Tomcat: copy the war file, `target/servlet-basics-1.0-SNAPSHOT.war` to `webapps` directory under your Tomcat installation directory
-* The app should be available at `https://localhost:8080/{context_path}`, if you want to get rid of the context path, you can deploy the app at link:https://www.google.com/search?q=tomcat+deploy+at+root+path[the root path]
+* The app should be available at `http://localhost:8080/{context_path}`, if you want to get rid of the context path, you can deploy the app at link:https://www.google.com/search?q=tomcat+deploy+at+root+path[the root path]
